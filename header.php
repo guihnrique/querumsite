@@ -22,6 +22,7 @@
 		    </div>
 		    <div class="collapse navbar-collapse" id="myNavbar">
 		      	<ul class="nav navbar-nav navbar-right">
+		      		<li><a class="scroll" href="#topo">HOME</a></li>
 		        	<li><a class="scroll" href="#about">QUEM SOMOS</a></li>
 		        	<li><a class="scroll" href="#services">SERVIÇOS</a></li>
 		        	<li><a class="scroll" href="#portfolio">PORTFÓLIOS</a></li>
