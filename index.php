@@ -22,7 +22,7 @@
 			</div>
 		</div>
 	</div>
-	<div class="container-fluid">
+	<div class="container-fluid" id="services">
 		<div class="row text-center">
 			<div class="corpo col-md-10 col-sm-10 col-xs-10 col-md-offset-1 col-sm-offset-1 col-xs-offset-1">
 				<!-- VERSÃO MOBILE -->
@@ -65,7 +65,7 @@
 			</div>
 		</div>	
 	</div>
-	<div class="container-fluid">
+	<div class="container-fluid" id="portfolio">
 		<div class="row text-center">
 			<div class="corpo col-md-10 col-sm-10 col-xs-10 col-md-offset-1 col-sm-offset-1 col-xs-offset-1">
 				<!-- VERSÃO MOBILE -->
@@ -126,7 +126,7 @@
 			</div>
 		</div>
 	</div>
-	<div class="container-fluid">
+	<div class="container-fluid" id="pricing">
 		<div class="row text-center">
 			<div class="corpo col-md-10 col-sm-10 col-xs-10 col-md-offset-1 col-sm-offset-1 col-xs-offset-1">
 				<!-- VERSÃO MOBILE -->
@@ -197,7 +197,7 @@
 			</div>
 		</div>
 	</div>
-	<div class="container-fluid">
+	<div class="container-fluid" id="contact">
 		<div class="row text-center">
 			<div class="corpo col-md-10 col-sm-10 col-xs-10 col-md-offset-1 col-sm-offset-1 col-xs-offset-1">
 				<!-- VERSÃO MOBILE -->

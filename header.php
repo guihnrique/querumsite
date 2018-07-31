@@ -5,7 +5,10 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<link rel="stylesheet" type="text/css" href="css/style.css">
 	<link rel="stylesheet" type="text/css" href="css/bootstrap.css">
-	<title>QUERUMSITE - Seja Bem Vindo!</title>
+	<script src="https://code.jquery.com/jquery-1.12.0.min.js"></script>
+	<script src="js/script.js"></script>
+
+ 	<title>QUERUMSITE - Seja Bem Vindo!</title>
 </head>
 <body>
 	<nav class="navbar navbar-default navbar-fixed-top">
@@ -19,11 +22,11 @@
 		    </div>
 		    <div class="collapse navbar-collapse" id="myNavbar">
 		      	<ul class="nav navbar-nav navbar-right">
-		        	<li><a href="#about">QUEM SOMOS</a></li>
-		        	<li><a href="#services">SERVIÇOS</a></li>
-		        	<li><a href="#portfolio">PORTFÓLIOS</a></li>
-		        	<li><a href="#pricing">PLANOS</a></li>
-		        	<li><a href="#contact">CONTATO</a></li>
+		        	<li><a class="scroll" href="#about">QUEM SOMOS</a></li>
+		        	<li><a class="scroll" href="#services">SERVIÇOS</a></li>
+		        	<li><a class="scroll" href="#portfolio">PORTFÓLIOS</a></li>
+		        	<li><a class="scroll" href="#pricing">PLANOS</a></li>
+		        	<li><a class="scroll" href="#contact">CONTATO</a></li>
 		        	<li><a href="#logar">LOGAR</a></li>
 		      	</ul>
 		    </div>
@@ -31,7 +34,7 @@
 	</nav>
 	<div class="container-fluid">
 		<div class="row">
-			<div class="banner col-md-12 col-sm-12 col-xs-12">
+			<div class="banner col-md-12 col-sm-12 col-xs-12" id="topo">
 				<img class="img-responsive col-md-6 col-md-offset-3" src="img/LOGO.png" alt="logo">
 			</div>
 		</div>

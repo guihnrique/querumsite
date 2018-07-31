@@ -1,6 +1,11 @@
+	<?php 
+
+		require_once 'header.php';
+
+	 ?>
 
 	<footer class="container-fluid text-center">
-  		<a href="#myPage" title="Topo">
+  		<a class="scroll" href="#topo" title="Topo">
     		<span class="glyphicon glyphicon-chevron-up"></span>
  		</a>
  	 		<p class="footer">Todos os direitos reservados 
